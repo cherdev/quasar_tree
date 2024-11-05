@@ -1,5 +1,12 @@
 # Quasar App
 
+### Демо
+#### Веб
+https://github.com/user-attachments/assets/7839ac79-a804-4691-9019-8d4b28e63680
+
+#### Мобильное
+https://github.com/user-attachments/assets/e2c16630-64cb-4111-b33e-0eeb2d8eeb9f
+
 ### Разворот проекта
 
 1. `npm install`
@@ -7,11 +14,14 @@
 
 ### Какие файлы смотреть
 
-`stores/tree.ts` - логика работы с деревом (добавление, удаление, редактирование)
-`pages/IndexPage.vue` - отображение компонентов, подключение `stores/store.ts` и сохранение в localstorage.
-`components/TreeNode.vue` - компонент для отображения ноды
-`components/RemoveNodeModal.vue` - модальное окно для подтверждения удаления
-`components/EditNodeModal.vue` - модальное окно для редактирования названия ноды
+`stores/tree.ts` - логика работы с деревом (добавление, удаление, редактирование)  
+`pages/IndexPage.vue` - отображение компонентов, подключение `stores/store.ts` и сохранение в localstorage  
+`components/TreeNode.vue` - компонент для отображения ноды  
+`components/RemoveNodeModal.vue` - модальное окно для подтверждения удаления  
+`components/EditNodeModal.vue` - модальное окно для редактирования названия ноды  
+
+### APK
+[https://github.com/cherdev/quasar_tree/blob/main/app.apk](https://github.com/cherdev/quasar_tree/blob/main/app.apk)
 
 ### Что бы улучшил
 
